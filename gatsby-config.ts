@@ -13,7 +13,9 @@ const config: GatsbyConfig = {
     resolve: 'gatsby-source-shopify',
     options: {
       "shopName": "prokopenko-2021.myshopify.com",
-      "accessToken": ""
+      "accessToken": "ab3aa2973dccb89274ef870a52b813cc",
+      "storeUrl": "prokopenko-2021.myshopify.com",
+      "password": "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"
     }
   }, "gatsby-plugin-image", "gatsby-plugin-sharp", "gatsby-transformer-sharp", "gatsby-plugin-styled-components", "gatsby-plugin-sitemap", {
     resolve: 'gatsby-plugin-manifest',
